@@ -1,3 +1,6 @@
 python-telegram-bot==13.15
 python-dotenv==1.0.1
 python-binance==1.0.29
+schedule==1.1.0
+pandas==2.2.2
+matplotlib==3.8.4
